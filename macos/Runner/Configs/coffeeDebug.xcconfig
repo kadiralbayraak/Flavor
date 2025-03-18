@@ -1,0 +1,6 @@
+#include "../../Flutter/coffeeDebug.xcconfig"
+#include "Warnings.xcconfig"
+
+ASSET_PREFIX=coffee
+BUNDLE_NAME=Coffee App
+BUNDLE_DISPLAY_NAME=Coffee App

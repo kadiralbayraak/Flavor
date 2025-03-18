@@ -1,0 +1,8 @@
+app:
+  name: "Coffee App"
+android:
+  applicationId: "com.example.coffee"
+ios:
+  bundleId: "com.example.coffee"
+macos:
+  bundleId: "com.example.coffee"

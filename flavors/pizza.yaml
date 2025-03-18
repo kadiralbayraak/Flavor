@@ -1,0 +1,8 @@
+app:
+  name: "Pizza App"
+android:
+  applicationId: "com.example.pizza"
+ios:
+  bundleId: "com.example.pizza"
+macos:
+  bundleId: "com.example.pizza"
